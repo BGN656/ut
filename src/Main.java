@@ -10,7 +10,7 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         System.out.print("Введите: ");
         int fid = scan.nextInt();
-        System.out.print("World!  "+ fid);
+        System.out.print("World!  " + fid + "  !!!!!");
 
 
     }
