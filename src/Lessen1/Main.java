@@ -1,3 +1,5 @@
+package Lessen1;
+
 import java.util.Scanner;
 
 import java.util.Scanner;
@@ -15,8 +17,6 @@ public class Main {
         nm = scan.nextLine();
 
         System.out.print("Привет  " + fid + "  !!!!!  " + nm);
-
-
 
 
     }
