@@ -10,6 +10,7 @@ import java.util.Scanner;
         float dty2 = 1.45f;
         System.out.println(dty2 + dty1);
 
+
         int i;
         System.out.print("Введите число 2: ");
         i = scan.nextInt();
