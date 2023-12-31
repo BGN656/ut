@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d78f7e9-dd42-4ddd-bf6b-2bab16920627" name="Changes" comment="r-2">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessen3/Calk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessen3/Ty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessen3/tr3/Vistral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessen3/tr3/far.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessen4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessen4/Tochka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessen5/BodyHorizon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessen5/DataCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessen10/BB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessen10/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessen10/Car2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessen10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessen6/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessen6/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessen7/Bnk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessen8/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessen9/Ls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessen9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ls/Mane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ls2/Energ2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ls2/EnergP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ut.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2MkIKp06N1ERAsk4r5nHf3aNA23" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Dars.executor": "Run",
+    "Application.Energ.executor": "Run",
+    "Application.Energ2.executor": "Run",
+    "Application.Mane.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TODO_SCOPE": "All Places",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out/production/ut/Lessen3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Energ2">
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessen10.Car" />
+      <module name="ut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lessen10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ls2.Dars" />
+      <module name="ut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ls2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Energ2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ls2.Energ2" />
+      <module name="ut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ls2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ls.Mane" />
+      <module name="ut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ls.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lessen10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessen10.Main" />
+      <module name="ut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lessen10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Energ2" />
+        <item itemvalue="Application.Dars" />
+        <item itemvalue="Application.Mane" />
+        <item itemvalue="Application.lessen10.Main" />
+        <item itemvalue="Application.Car" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-203781b8" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d78f7e9-dd42-4ddd-bf6b-2bab16920627" name="Changes" comment="" />
+      <created>1678305092017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678305092017</updated>
+    </task>
+    <task id="LOCAL-00001" summary="C_1">
+      <created>1678306553696</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678306553696</updated>
+    </task>
+    <task id="LOCAL-00002" summary="C_2">
+      <created>1678307472687</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678307472687</updated>
+    </task>
+    <task id="LOCAL-00003" summary="C_3">
+      <created>1678307584774</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678307584774</updated>
+    </task>
+    <task id="LOCAL-00004" summary="C_4">
+      <created>1678472943777</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678472943777</updated>
+    </task>
+    <task id="LOCAL-00005" summary="C_6">
+      <created>1678478434595</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678478434595</updated>
+    </task>
+    <task id="LOCAL-00006" summary="C_7">
+      <created>1678478549065</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678478549065</updated>
+    </task>
+    <task id="LOCAL-00007" summary="C_8-2">
+      <created>1678539461975</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678539461975</updated>
+    </task>
+    <task id="LOCAL-00008" summary="C_9">
+      <created>1678541454965</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678541454965</updated>
+    </task>
+    <task id="LOCAL-00009" summary="C_10">
+      <created>1699732722092</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699732722092</updated>
+    </task>
+    <task id="LOCAL-00010" summary="C_11">
+      <created>1699732906290</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1699732906290</updated>
+    </task>
+    <task id="LOCAL-00011" summary="r-1">
+      <created>1699733143512</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1699733143512</updated>
+    </task>
+    <task id="LOCAL-00012" summary="r-2">
+      <created>1699733168133</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1699733168133</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="C_1" />
+    <MESSAGE value="C_2" />
+    <MESSAGE value="C_3" />
+    <MESSAGE value="C_4" />
+    <MESSAGE value="C_5" />
+    <MESSAGE value="C_6" />
+    <MESSAGE value="C_7" />
+    <MESSAGE value="C_8" />
+    <MESSAGE value="C_8-2" />
+    <MESSAGE value="C_9" />
+    <MESSAGE value="C_10" />
+    <MESSAGE value="C_11" />
+    <MESSAGE value="r-1" />
+    <MESSAGE value="r-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="r-2" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
